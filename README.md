@@ -30,4 +30,4 @@ igolang
 /user/forget_password 忘记密码
 /user/change_passwrod 修改密码
 
-/config 系统配置
+/config 系统配置，需要管理员权限
